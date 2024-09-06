@@ -18,8 +18,8 @@
 .profile__name {
     margin: 0 0 12px;
     font-weight: 500;
-    font-size: 32px;
-    line-height: 1;
+
+    max-width: 420px;
 }
 
 .profile__description {
@@ -78,7 +78,9 @@
     }
 
     .profile__add-btn {
-        margin: 0;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
     }
 
     .profile__name {
