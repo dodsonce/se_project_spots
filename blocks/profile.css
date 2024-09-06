@@ -18,12 +18,21 @@
 .profile__name {
     margin: 0 0 12px;
     font-weight: 500;
-
     max-width: 420px;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    line-height: 1;
+    color: #212121;
 }
 
 .profile__description {
     margin: 0;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: 16px;
+    line-height: 1;
+    color: #212121;
+    opacity: 0.7;
 }
 
 .profile__edit-btn {
@@ -38,6 +47,7 @@
     line-height: 1;
     background-color: #fcf5e5;
     display: flex;
+    border-radius: 90px;
 }
 
 .profile__add-btn {
