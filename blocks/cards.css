@@ -20,5 +20,7 @@
     .cards__list {
         grid-template-columns: repeat(auto-fit, 288px);
         grid-gap: 20px;
+        border-bottom: 1px rgba(33, 33, 33, 0.4) solid;
+        padding-bottom: 20px;
     }
 }
