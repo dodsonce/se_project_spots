@@ -28,6 +28,10 @@ This project is a photo sharing website that is accessible on desktop, tablet, a
 
 This website is accessible by using GitHub. See below for link:
 
-https://github.com/dodsonce/se_project_spots
+https://dodsonce.github.io/se_project_spots/
+
+Link to my video:
+
+https://drive.google.com/file/d/1S_7KeI1dWYAkGjOIUXtJ_st6EIe0ykNp/view?usp=sharing
 
 Thank you :)
