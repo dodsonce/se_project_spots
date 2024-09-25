@@ -47,11 +47,10 @@ function getCardElement(data) {
 
     const cardNameEl = cardElement.querySelector(".card__title");
     const cardImageEl = cardElement.querySelector(".card__image");
-    const cardAltEl = cardElement.querySelector(".card__image");
 
     cardNameEl.textContent = data.name;
     cardImageEl.src = data.link;
-    cardAltEl.textContent = data.name;
+    cardImageEl.alt = data.name;
 
     return cardElement;
 }
